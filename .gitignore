@@ -1,2 +1,9 @@
 *.class
 *.log
+/project
+/target
+.idea
+.bsp
+
+/src/main/scala/com/bourne/learning/twitterKeys/KeysAndSecretBackup.scala
+/src/main/resources/log4j.properties
